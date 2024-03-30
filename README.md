@@ -1,5 +1,5 @@
 # PythonProgramForMachineLearning
-Aarakshak - An Artifical Intelligence Camera For Illegal Activity
+Aarakshak - An Artifical Intelligence Camera For detection of Illegal Activity and Weapon
 
 <h1 align="center">Hi 👋, We are Team Vision Vigil</h1>
 <h3 align="center">We are working for Problem Statement : **Lack of video analysis, event detection and automatic alerts to police authorities upon detecting suspicious activities**</h3>
