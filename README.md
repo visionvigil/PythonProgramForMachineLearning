@@ -4,6 +4,10 @@ Aarakshak - An Artifical Intelligence Camera For detection of Illegal Activity a
 <h1 align="center">Hi 👋, We are Team Vision Vigil</h1>
 <h3 align="center">We are working for Problem Statement : **Lack of video analysis, event detection and automatic alerts to police authorities upon detecting suspicious activities**</h3>
 
+<h4 align="center">Some Example of Detection</h4>
+<img src="detection1.jpg" />
+<img src="detection2.jpg" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visionvigil&label=Profile%20views&color=0e75b6&style=flat" alt="visionvigil" /> </p>
 
 - 🔭 I’m currently working on [Aarakshak](aarakshak.vercel.app)
